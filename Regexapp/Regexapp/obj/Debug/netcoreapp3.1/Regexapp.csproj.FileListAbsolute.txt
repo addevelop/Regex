@@ -1,0 +1,16 @@
+C:\Users\adrien.rodrigues\Documents\pro\doc\Regexapp\Regexapp\obj\Debug\netcoreapp3.1\Regexapp.csproj.AssemblyReference.cache
+C:\Users\adrien.rodrigues\Documents\pro\doc\Regexapp\Regexapp\obj\Debug\netcoreapp3.1\Regexapp.Form1.resources
+C:\Users\adrien.rodrigues\Documents\pro\doc\Regexapp\Regexapp\obj\Debug\netcoreapp3.1\Regexapp.csproj.GenerateResource.cache
+C:\Users\adrien.rodrigues\Documents\pro\doc\Regexapp\Regexapp\obj\Debug\netcoreapp3.1\Regexapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrien.rodrigues\Documents\pro\doc\Regexapp\Regexapp\obj\Debug\netcoreapp3.1\Regexapp.AssemblyInfoInputs.cache
+C:\Users\adrien.rodrigues\Documents\pro\doc\Regexapp\Regexapp\obj\Debug\netcoreapp3.1\Regexapp.AssemblyInfo.cs
+C:\Users\adrien.rodrigues\Documents\pro\doc\Regexapp\Regexapp\obj\Debug\netcoreapp3.1\Regexapp.csproj.CoreCompileInputs.cache
+C:\Users\adrien.rodrigues\Documents\pro\doc\Regexapp\Regexapp\bin\Debug\netcoreapp3.1\Regexapp.exe
+C:\Users\adrien.rodrigues\Documents\pro\doc\Regexapp\Regexapp\bin\Debug\netcoreapp3.1\Regexapp.deps.json
+C:\Users\adrien.rodrigues\Documents\pro\doc\Regexapp\Regexapp\bin\Debug\netcoreapp3.1\Regexapp.runtimeconfig.json
+C:\Users\adrien.rodrigues\Documents\pro\doc\Regexapp\Regexapp\bin\Debug\netcoreapp3.1\Regexapp.runtimeconfig.dev.json
+C:\Users\adrien.rodrigues\Documents\pro\doc\Regexapp\Regexapp\bin\Debug\netcoreapp3.1\Regexapp.dll
+C:\Users\adrien.rodrigues\Documents\pro\doc\Regexapp\Regexapp\bin\Debug\netcoreapp3.1\Regexapp.pdb
+C:\Users\adrien.rodrigues\Documents\pro\doc\Regexapp\Regexapp\obj\Debug\netcoreapp3.1\Regexapp.dll
+C:\Users\adrien.rodrigues\Documents\pro\doc\Regexapp\Regexapp\obj\Debug\netcoreapp3.1\Regexapp.pdb
+C:\Users\adrien.rodrigues\Documents\pro\doc\Regexapp\Regexapp\obj\Debug\netcoreapp3.1\Regexapp.genruntimeconfig.cache
